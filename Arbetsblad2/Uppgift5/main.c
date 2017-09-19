@@ -1,5 +1,5 @@
 /*
-						Uppgift 5.
+Uppgift 5.
 This code takes two strings and combines them into one.
 */
 
@@ -9,7 +9,7 @@ This code takes two strings and combines them into one.
 #include <string.h>
 
 char* create_headline(const char *s1, const char *s2) {
-	char *result = malloc(sizeof(char) * (strlen(s1)+strlen(s2)+1));
+	char *result = malloc(sizeof(char) * (strlen(s1) + strlen(s2) + 1));
 	strcpy(result, s1);
 	strcat(result, s2);
 
