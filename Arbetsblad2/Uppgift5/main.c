@@ -1,6 +1,6 @@
 /*
 Uppgift 5.
-This code takes two strings and combines them into one.
+This code takes two strings and combines them into one and then printing them out.
 */
 
 
