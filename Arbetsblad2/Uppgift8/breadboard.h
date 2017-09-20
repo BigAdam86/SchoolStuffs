@@ -1,3 +1,4 @@
+#pragma once
 #ifndef breadboard_h
 #define breadboard_h
 
